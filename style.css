@@ -1,0 +1,65 @@
+body {
+    background-color: black;
+    margin: auto;
+    font-weight: bold;
+    width: fit-content;
+    margin-top: 50px;
+}
+
+.container {
+    background-color: #cbcbcb;
+    border-top: 5px solid #929292;
+    border-left: 5px solid #929292;
+    border-bottom: 5px solid #fdfefd;
+    border-right: 5px solid #fdfefd;
+}
+
+.outerBorder {
+    max-width: fit-content;
+    border: 5px solid #c8cac8;
+}
+
+.line {
+    display: flex;
+}
+
+.line>div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    border-right: 2px dotted black;
+    border-bottom: 2px dotted black;
+}
+
+.line>.hiddenContent {
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+.lineHiddenConten {
+    position: absolute;
+}
+
+.insideBox {
+    width: 26px;
+    height: 26px;
+    background-color: #cbcbcb;
+    border-bottom: 2px solid #929292;
+    border-right: 2px solid #929292;
+    border-top: 2px solid #fdfefd;
+    border-left: 2px solid #fdfefd;
+}
+
+.number1 {
+    color: #0e2fff;
+}
+
+.number2 {
+    color: #008f00;
+}
+
+.number3 {
+    color: #ff2900;
+}
