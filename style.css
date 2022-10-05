@@ -38,6 +38,10 @@ body {
     border-bottom: 2px solid black;
 }
 
+.hiddenContent>a:hover {
+    display: none;
+}
+
 .lineHiddenConten {
     position: absolute;
 }
