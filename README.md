@@ -17,4 +17,4 @@ Make a minefield that looks like the image below, using Flexbox.
 *Note: The minefield should be centred on the web page!*
 
 ![Minesweeper Mockup](images/minefield.png)
-[Link to the page]()2
+[Link to the page](https://liloumazzarisi.github.io/flexbox-minesweeper/)
